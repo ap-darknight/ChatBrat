@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ChatBrat/static/css/main.c3e481d3.chunk.css",
+    "main.js": "/ChatBrat/static/js/main.1a4f01de.chunk.js",
+    "main.js.map": "/ChatBrat/static/js/main.1a4f01de.chunk.js.map",
+    "runtime-main.js": "/ChatBrat/static/js/runtime-main.a54a94d8.js",
+    "runtime-main.js.map": "/ChatBrat/static/js/runtime-main.a54a94d8.js.map",
+    "static/js/2.9f7b7652.chunk.js": "/ChatBrat/static/js/2.9f7b7652.chunk.js",
+    "static/js/2.9f7b7652.chunk.js.map": "/ChatBrat/static/js/2.9f7b7652.chunk.js.map",
+    "index.html": "/ChatBrat/index.html",
+    "precache-manifest.04ac5ac8398087ef44235c3eda902273.js": "/ChatBrat/precache-manifest.04ac5ac8398087ef44235c3eda902273.js",
+    "service-worker.js": "/ChatBrat/service-worker.js",
+    "static/css/main.c3e481d3.chunk.css.map": "/ChatBrat/static/css/main.c3e481d3.chunk.css.map",
+    "static/js/2.9f7b7652.chunk.js.LICENSE.txt": "/ChatBrat/static/js/2.9f7b7652.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a54a94d8.js",
+    "static/js/2.9f7b7652.chunk.js",
+    "static/css/main.c3e481d3.chunk.css",
+    "static/js/main.1a4f01de.chunk.js"
+  ]
+}
